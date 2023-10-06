@@ -5,7 +5,7 @@ import pandas as pd
 ################# TRAKING ###############################
 
 # Caminho do arquivo Excel
-caminho_arquivo = r'G:\Meu Drive\Dados\Traking Integracao\8. Integração\8.2. Integração Jardim América\8.2.3. Bases\8.2.3.3. Consolidado das Bases\consolidado.xlsx'
+caminho_arquivo = r'G:\Meu Drive\Dados\Traking Integracao\8. Integração\8.4. Integração Irmãos\8.4.3. Bases\8.4.3.3. Consolidado das bases\consolidado.xlsx'
 
 # Conexão com o banco de dados PostgreSQL
 conn = psycopg2.connect(
